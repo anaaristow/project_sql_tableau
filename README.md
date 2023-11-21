@@ -27,9 +27,11 @@ SQL queries were executed using Python to perform a exploratory phase:
 ## Visualizations and Analysis
 A dashboard was created using Tableau to visually represent the analysis objectives.
 
-![Alt text](<Data Analysis for Firearms Sales & Gun Violence _ Tableau Public - Google Chrome 2023-11-20 22-23-47-1.gif>)
+![Alt text](https://github.com/anaaristow/project_sql_tableau/blob/main/images/Data%20Analysis%20for%20Firearms%20Sales%20&%20Gun%20Violence%20_%20Tableau%20Public%20-%20Google%20Chrome%202023-11-20%2022-23-47-1.gif?raw=true)
 
 ### Regression Equation
+
+![Alt text](https://github.com/anaaristow/project_sql_tableau/blob/main/images/correlation.png?raw=true)
 
 In the regression analysis, a model was developed to quantify the relationship between total gun sales and injuries. The equation Injuries=0.000863384×Total+16663.19
 serves as a mathematical representation of this relationship. To illustrate, consider that for every 10,000 guns sold, an estimated increase of approximately 9 injuries is anticipated.
