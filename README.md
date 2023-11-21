@@ -2,7 +2,7 @@
 
 ## SQL - Tableau Project
 
-![Alt text](usa.webp)
+![Alt text](https://github.com/anaaristow/project_sql_tableau/blob/main/images/eua.png?raw=true)
 
 In this analysis, two datasets were employed, one sourced from the National Instant Criminal Background Check System (NICS)² database maintained by the FBI, and the other retrieved from Kaggle. The primary objective of this project is to examine and establish correlations between the total of firearms sales and incidents of gun violence.
 
@@ -54,4 +54,4 @@ In conclusion, although the expected results were not found, a meaningful relati
 
 [Gun Violence Data](https://www.kaggle.com/datasets/jameslko/gun-violence-data/code)
 
-[Firearms Sales](https://raw.githubusercontent.com/BuzzFeedNews/nics-firearm-background-checks/master/data/nics-firearm-background-checks.csv)
+[Firearms Sales Data](https://raw.githubusercontent.com/BuzzFeedNews/nics-firearm-background-checks/master/data/nics-firearm-background-checks.csv)
